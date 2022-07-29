@@ -11,7 +11,7 @@ var laterYears = myAge-2;
 //since the first two human years of a dog's life were already accounted for in earlyYears, laterYears is equal to the remaining human years unaccounted for
 
 var laterYears = (myAge-2)*4;
-//since the first two years of dog's life is accounted for by the variable earlyYears, the age of the dog after the first two human years of a dog is now accounted for given by the fact that each human year after the dog's first two human years is equal to 4 dog years
+//since the first two years of dog's life is accounted for by the variable earlyYears, the remaining human years is then converted into dog years
 
 
 //console.log(earlyYears);
